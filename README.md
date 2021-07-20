@@ -1,4 +1,4 @@
-# wbc-real-application-scenario
+# On the Effectiveness of Leukocytes Classification Methods in a Real Application Scenario
 Models and Features inherent the manuscript "On the Effectiveness of Leukocytes Classification Methods in a Real Application Scenario"
 
 Here, you can find the models and the features used in the manuscript indicated above.
