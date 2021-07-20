@@ -3,6 +3,8 @@ Models and Features inherent the manuscript "On the Effectiveness of Leukocytes 
 
 Here, you can find the models and the features used in the manuscript indicated above.
 
+# IMPORTANT: due to GitHub space limitations, the models are available here: https://bit.ly/3iK341R
+
 Authors, releasers and maintainers: Andrea Loddo, Lorenzo Putzu - University of Cagliari
 
 NOTE: please cite one of the following pubblication in case of using these images in your own work:
