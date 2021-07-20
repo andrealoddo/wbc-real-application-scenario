@@ -13,7 +13,8 @@ NOTE: please cite one of the following pubblication in case of using these image
 ALL-IDB is a public image dataset described in the following article: https://ieeexplore.ieee.org/document/6115881 More information can be found @ https://homes.di.unimi.it/scotti/all/
 
 # R-WBC
-R-WBC is a public image dataset described in the following article: ToDo More information can be found @ ToDo
+R-WBC is a public image dataset described in the following article: https://www.biorxiv.org/content/10.1101/2021.05.02.442287v1.full More information can be found @ https://www.raabindata.com/free-data/
+
 # LICENSE
 MIT License
 
