@@ -9,7 +9,19 @@ Authors, releasers and maintainers: Andrea Loddo, Lorenzo Putzu - University of 
 
 NOTE: please cite one of the following pubblication in case of using these images in your own work:
 
-@article{Loddo2021, author = {Andrea Loddo and Lorenzo Putzu}, title = {On the Effectiveness of WBCs Classification Methods in a Real Application Scenario}, journal = {AI}, publisher={MDPI}, volume = {}, number = {}, pages = {}, year = {In review}}
+@Article{ai2030025,
+AUTHOR = {Loddo, Andrea and Putzu, Lorenzo},
+TITLE = {On the Effectiveness of Leukocytes Classification Methods in a Real Application Scenario},
+JOURNAL = {AI},
+VOLUME = {2},
+YEAR = {2021},
+NUMBER = {3},
+PAGES = {394--412},
+URL = {https://www.mdpi.com/2673-2688/2/3/25},
+ISSN = {2673-2688},
+DOI = {10.3390/ai2030025}
+}
+
 
 # ALL-IDB
 ALL-IDB is a public image dataset described in the following article: https://ieeexplore.ieee.org/document/6115881 More information can be found @ https://homes.di.unimi.it/scotti/all/
